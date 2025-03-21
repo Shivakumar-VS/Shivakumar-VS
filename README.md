@@ -1,5 +1,4 @@
----
-[![](https://visitcount.itsvg.in/api?id=Shivakumar-VS&icon=5&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Shivakumar-VS&icon=5&color=1)](https://visitcount.itsvg.in)
 ## Hi 👋, I'm Shivakumar V S 
 A passionate developer from Karnataka 🇮🇳  
 
