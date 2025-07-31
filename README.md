@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Shivakumar-vs&icon=5&color=13)](https://visitcount.itsvg.in)
+
 ## Hi 👋, I'm Shivakumar V S 
 A passionate developer from Karnataka 🇮🇳  
 
