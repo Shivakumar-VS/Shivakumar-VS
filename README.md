@@ -1,5 +1,4 @@
-![Profile Views](https://visitcount.itsvg.in/api?id=Shivakumar-VS&icon=5&color=13)
-
+![Profile Views](https://visitcount.itsvg.in/api?id=Shivakumar-VS&label=views&color=6)
 ## Hi 👋, I'm Shivakumar V S 
 A passionate developer from Karnataka 🇮🇳  
 
