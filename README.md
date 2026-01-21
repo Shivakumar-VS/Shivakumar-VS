@@ -1,11 +1,11 @@
-[![](https://visitcount.itsvg.in/api?id=Shivakumar-VS&icon=5&color=13)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=Shivakumar-VS&icon=5&color=13)
 
 ## Hi 👋, I'm Shivakumar V S 
 A passionate developer from Karnataka 🇮🇳  
 
 🌱 I’m currently learning **Python,Node.js**  
 👨‍💻 I’m working on **Front-End development and SQl Development**  
-📑 Check out my resume here - **[My Resume]([https://drive.google.com/drive/folders/1qqVklGQOV-lWDgJqrfiCbGGTpvGNj8pW?ushp=saring](https://drive.google.com/drive/folders/12FMAmfJkJbt13yl8CBk_HqBRQbG2qNcw?usp=drive_link))**  
+📑 Check out my resume here - **[My Resume](https://drive.google.com/drive/folders/12FMAmfJkJbt13yl8CBk_HqBRQbG2qNcw?usp=drive_link)**  
 💻 All of my projects are available on **[GitHub](https://github.com/Shivakumar-VS)**   
 💬 Ask me about **Java, Front End Development, Web & SQL**  
 📫 Reach out to me at **shivakumarvs.276@gmail.com**  
