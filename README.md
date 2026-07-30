@@ -4,7 +4,7 @@ A passionate developer from Karnataka 🇮🇳
 
 🌱 I’m currently learning **Java full stack development**  
 👨‍💻 I’m working on **Front-End development and SQl Development**  
-📑 Check out my resume here - **[My Resume](([https://drive.google.com/drive/folders/1qqVklGQOV-lWDgJqrfiCbGGTpvGNj8pW?usp=drive_link]))**  
+📑 Check out my resume here - **[My Resume](https://drive.google.com/drive/folders/1qqVklGQOV-lWDgJqrfiCbGGTpvGNj8pW?usp=drive_link)**
 💻 All of my projects are available on **[GitHub](https://github.com/Shivakumar-VS)**   
 💬 Ask me about **Java, Front End Development, Web & SQL**  
 📫 Reach out to me at **shivakumarvs.276@gmail.com**  
