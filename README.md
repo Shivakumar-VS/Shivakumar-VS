@@ -2,12 +2,12 @@
 ## Hi 👋, I'm Shivakumar V S 
 A passionate developer from Karnataka 🇮🇳  
 
-🌱 I’m currently learning **Java full stack development**  
-👨‍💻 I’m working on **Front-End development and SQl Development**  
-📑 Check out my resume here - **[My Resume](https://drive.google.com/drive/folders/1qqVklGQOV-lWDgJqrfiCbGGTpvGNj8pW?usp=drive_link)**
-💻 All of my projects are available on **[GitHub](https://github.com/Shivakumar-VS)**   
-💬 Ask me about **Java, Front End Development, Web & SQL**  
-📫 Reach out to me at **shivakumarvs.276@gmail.com**  
+🌱 I’m currently learning **Java Full Stack Development**  
+👨‍💻 I’m currently working on **Front-End Development and SQL**  
+📑 Check out my resume: **[My Resume](https://drive.google.com/drive/folders/1qqVklGQOV-lWDgJqrfiCbGGTpvGNj8pW?usp=drive_link)**  
+💻 Explore all of my projects on **[GitHub](https://github.com/Shivakumar-VS)**  
+💬 Ask me about **Java, Front-End Development, Web Development, and SQL**  
+📫 Reach me at **shivakumarvs.276@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivakumar-v-s-4313292b1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/iamShivakumarvspppppppppppppppppp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivakumarvs.276@gmail.com) 
